@@ -1,0 +1,10 @@
+{
+  "name": "Backbone Application",
+  "description": "Ready for your Backbone application with the Backbone Buildpack set up",
+  "repository": "https://github.com/GabKlein/heroku-buildpack-backbone",
+  "logo": "http://backbonejs.com/images/logos/backbone-logo.png",
+  "keywords": ["backbone", "backbone.js", "backbone"],
+  "env": {
+    "BUILDPACK_URL": "https://github.com/GabKlein/heroku-buildpack-backbone.git"
+  }
+}
